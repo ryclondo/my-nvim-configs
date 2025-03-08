@@ -1,0 +1,9 @@
+# Ignore sensitive files
+*.key
+*.pem
+*_history
+.env
+credentials*
+token*
+*password*
+*secret*
